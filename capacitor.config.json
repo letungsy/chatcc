@@ -1,0 +1,17 @@
+{
+  "appId": "com.example.chatai",
+  "appName": "ChatAI",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": [
+      "http://www.smilebody.sakura.ne.jp",
+      "https://www.smilebody.sakura.ne.jp"
+    ]
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
